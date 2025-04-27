@@ -43,7 +43,6 @@ Ce script compile automatiquement :
 - **le serveur** : `./server`  
 - **le client** : `./sh13` (avec toutes les dépendances SDL2)
 
-> **Remarque** : Assurez-vous d’avoir toutes les bibliothèques nécessaires installées avant la compilation (voir section **Dépendances**).
 
 ---
 
